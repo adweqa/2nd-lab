@@ -18,7 +18,7 @@
 ## Инструкция по работа к заданию №1
 По запросу программы пользователь вводит три числа, числа могут быть как целыми, так и дробными, затем выводится результат с точностью до двух знаков после запятой
 ## Результат тестирования задания №1
-<img width="583" height="531" alt="image" src="https://github.com/user-attachments/assets/28a304e0-385c-4a57-8f07-e88fe54ce84c" />
+<img width="383" height="331" alt="image" src="https://github.com/user-attachments/assets/28a304e0-385c-4a57-8f07-e88fe54ce84c" />
 
 
 
